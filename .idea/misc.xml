@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/button.xml" value="0.2045" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/button1.xml" value="0.2525" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/button_green_background.xml" value="0.139" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/button_lightgreen_background.xml" value="0.139" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/button_red_background.xml" value="0.139" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/button_red_bg.xml" value="0.2035" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/button_signin.xml" value="0.1" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/button_violet_bg.xml" value="0.2035" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/delete_background.xml" value="0.139" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/dialog_background.xml" value="0.139" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/edit_text_border.xml" value="0.1" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/ic_otp.xml" value="0.226" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/ic_password.xml" value="0.1975" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/ic_user.xml" value="0.1975" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/logout_background.xml" value="0.139" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/patients_background.xml" value="0.1655" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/patients_count_background.xml" value="0.1655" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/search.xml" value="0.2555" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/spinner.xml" value="0.2555" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/drawable/update_confirm.xml" value="0.2035" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/font/crimson.xml" value="0.28020833333333334" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_analytics.xml" value="0.17211538461538461" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_details_itr.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_details_per.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_fetching.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_fetching_itr.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_fetching_per.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_insertion.xml" value="0.1" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_otpactivity.xml" value="0.1955128205128205" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_patient_details.xml" value="0.4" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_patient_details_itr.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_patient_details_per.xml" value="0.4" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_qrgenerate.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_qrscanner.xml" value="0.2" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_reset_pass.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_reset_password.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/activity_search.xml" value="0.2" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/dialog_delete_layout.xml" value="0.2477355072463768" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/dialog_logout_layout.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/image_holder.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/insertion.xml" value="0.2" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/itr_dialog_diagnosis.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/itr_form.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/itr_pat_list_item.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/itr_update_dialog.xml" value="0.4" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/itr_update_dialog_layout.xml" value="0.2" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/layout_confirm_update.xml" value="0.4" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/layout_dialog_delete.xml" value="0.2477355072463768" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/layout_dialog_error.xml" value="0.2" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/layout_dialog_logout.xml" value="0.4" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/layout_patients_number.xml" value="0.4" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/pat_list_item.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/pat_list_item_itr.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/pat_list_item_per.xml" value="0.1" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/per_form.xml" value="0.4" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/per_pat_list_item.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/per_update_dialog.xml" value="0.4" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/report_pat_list_item.xml" value="0.2333984375" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/spinner.xml" value="0.17115384615384616" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/styles.xml" value="0.2477355072463768" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/update_dialog.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/update_dialog_itr.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/update_dialog_per.xml" value="0.2" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/layout/view_report.xml" value="0.264" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/menu/menu_item.xml" value="0.4" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/menu/menu_main.xml" value="0.2" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/menu/menu_search.xml" value="0.234375" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1785" />
+        <entry key="..\:/Android Studio/AndroidStudioProjects/HealtheCare/app/src/main/res/xml/per_form.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

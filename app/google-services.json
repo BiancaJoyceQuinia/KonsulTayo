@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1079416711277",
+    "firebase_url": "https://health-ecare-5f965-default-rtdb.firebaseio.com",
+    "project_id": "health-ecare-5f965",
+    "storage_bucket": "health-ecare-5f965.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079416711277:android:147f2823a422a85a2bf764",
+        "android_client_info": {
+          "package_name": "com.example.healthecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079416711277-l99tqrk4dm7cpmm7arn2mrekgjg22kuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcwbPHOaTImVufH8MxJAlc1SJ9Hj8mh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079416711277-l99tqrk4dm7cpmm7arn2mrekgjg22kuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079416711277:android:7215431b012de8082bf764",
+        "android_client_info": {
+          "package_name": "com.example.validateedittext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079416711277-l99tqrk4dm7cpmm7arn2mrekgjg22kuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcwbPHOaTImVufH8MxJAlc1SJ9Hj8mh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079416711277-l99tqrk4dm7cpmm7arn2mrekgjg22kuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

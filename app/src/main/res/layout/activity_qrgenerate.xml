@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".QR.QRGenerate"
+    android:background="@drawable/bg_main2">
+
+    <ImageView
+        android:id="@+id/idIVQrcode"
+        android:layout_width="512dp"
+        android:layout_height="512dp"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/qr_code" />
+
+    <TextView
+        android:id="@+id/vitrFullName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idIVQrcode"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20dp"
+        android:autofillHints=""
+        android:gravity="center"
+        android:textColor="@color/black1"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/vitrDateOfReturn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/idIVQrcode"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="20dp"
+        android:autofillHints=""
+        android:gravity="center"
+        android:textColor="@color/black1"
+        android:textStyle="bold"
+        android:textSize="28sp" />
+
+</RelativeLayout>
